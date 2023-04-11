@@ -24,3 +24,8 @@ for (const button of buttons) {
 close.addEventListener('click', function () {
   notShow();
 });
+
+overlay.addEventListener('click', function () {
+  notShow();
+});
+
